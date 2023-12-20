@@ -1,0 +1,2 @@
+(this.webpackJsonpsifi=this.webpackJsonpsifi||[]).push([[12],{139:function(s,i,e){"use strict";e.r(i),i.default=e.p+"static/media/seppo-technology.e989e3f9.md"}}]);
+//# sourceMappingURL=12.18c0424d.chunk.js.map

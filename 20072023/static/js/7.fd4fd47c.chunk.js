@@ -1,0 +1,2 @@
+(this.webpackJsonpsifi=this.webpackJsonpsifi||[]).push([[7],{134:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/creative-art.c97dc8ff.md"}}]);
+//# sourceMappingURL=7.fd4fd47c.chunk.js.map

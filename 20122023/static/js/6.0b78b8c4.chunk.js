@@ -1,0 +1,2 @@
+(this.webpackJsonpsifi=this.webpackJsonpsifi||[]).push([[6],{133:function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/media/my-truth-about-wordpress.615d0c89.md"}}]);
+//# sourceMappingURL=6.0b78b8c4.chunk.js.map
